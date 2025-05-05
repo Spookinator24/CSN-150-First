@@ -1,5 +1,5 @@
 # CSN-150-First
-**First GitHub Rep**
+**First _GitHub_ Rep**
 
 ## Heading 2
 _potato_
