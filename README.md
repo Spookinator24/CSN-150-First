@@ -1,8 +1,8 @@
 # CSN-150-First
-First GitHub Rep
+**First GitHub Rep**
 
 ## Heading 2
-potato
+_potato_
 
 ## Heading 3
-apple
+~~apple~~
