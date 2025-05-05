@@ -38,7 +38,7 @@ link to [important video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcml
 3. 0
 
 #### images
-![Image of jedi order symbol](jedi order symbol.jpg)
+
 
 
 
