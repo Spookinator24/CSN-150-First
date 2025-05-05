@@ -37,7 +37,8 @@ link to [important video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcml
 2. 6
 3. 0
 
-#### images
+#### Images
+![Image of potato](Potato-800x800.jpg)
 
 
 
