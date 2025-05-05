@@ -25,3 +25,19 @@ line 3
 
 #### links
 link to [important video](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUJcmljayByb2xs)
+
+#### lists
+- 1
+- 2
+- 3
+* 4
+* 5
+* 6
+1. 3
+2. 6
+3. 0
+
+
+
+
+
