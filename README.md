@@ -10,6 +10,8 @@ _potato_
 ### Heading 4
 <ins>orange</ins>
 
-
 #### Quote Text
 > banana
+
+#### quote Code
+`code quote`
